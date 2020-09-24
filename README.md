@@ -37,8 +37,13 @@
   <li>Markdown files</li>
 </ul>
 
-
 <h3>Front Matter</h3>
+<ul>
+  <li>YML or JSON to have key valye pairs</li>
+  <li>metadata about posts<li>
+  <li></li>
+</ul>
+
 
 
 
