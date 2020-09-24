@@ -20,6 +20,10 @@
     - later run >jekyll serve
   </li>
   <li>Web site will be running on http://127.0.0.1:4000/</li>
+  <li>When some new dependencies to be installed then tyoe in cmd:
+    <br>
+    - bundle install
+  </li>
 </ul>
 
 <h3>Project files</h3>
