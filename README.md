@@ -8,7 +8,9 @@
     - >ruby -v<br>
     - >gem -v<br>
     - >gem install jekyll bundler<br>
-    - >jekyll -v
-    - cd to directory and >jekyll new my_blog
+    - >jekyll -v<br>
+    - cd to directory and >jekyll new my_blog<br>
+    - cd to my_blog frist time run: >bundle exec jekyll serve<br>
+    - later run >jekyll serve
   </li>
 </ul>
