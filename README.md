@@ -1,5 +1,6 @@
-# Jekyll
+<h2>Jekyll</h2>
 
+<h3>Installation</h3>
 <ul>
   <li>Installing ruby from https://rubyinstaller.org/downloads/.</li>
   <li>Installation MYSYS subsequently.</li>
@@ -18,4 +19,20 @@
     - cd to my_blog frist time run: >bundle exec jekyll serve<br>
     - later run >jekyll serve
   </li>
+  <li>Web site will be running on http://127.0.0.1:4000/</li>
 </ul>
+
+<h3>Project files</h3>
+<ul>
+  <li>_config.yml
+    <br>
+    - key values file<br>
+    - settings for jekyll website
+  </li>
+  <li></li>
+</ul>
+
+
+
+
+
