@@ -12,6 +12,7 @@
     - >gem install jekyll-feed<br>
     - >gem install tzinfo -v "~> 1.2"<br>
     - >gem install tzinfo-data<br>
+    - >gem install wdm -v=0.1.1<br>
     - >jekyll -v<br>
     - cd to directory and >jekyll new my_blog<br>
     - cd to my_blog frist time run: >bundle exec jekyll serve<br>
