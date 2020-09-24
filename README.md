@@ -29,6 +29,11 @@
     - key values file<br>
     - settings for jekyll website
   </li>
+  <li>Gemfile
+    <br>
+    - used with ruby<br>
+    - contains all the dependencies
+  </li>
   <li></li>
 </ul>
 
