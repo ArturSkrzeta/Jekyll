@@ -47,7 +47,13 @@
   <li>metadata about posts</li>
 </ul>
 
-
+<h3>Keeping user's files</h3>
+<ul>
+  <li>in _config.yml:
+    <br>
+    - keep_files: ["assets/images/projects", ".png"]
+  </li>
+</ul>
 
 
 
